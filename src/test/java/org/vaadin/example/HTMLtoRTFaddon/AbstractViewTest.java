@@ -1,4 +1,4 @@
-package org.vaadin.example.addon;
+package org.vaadin.example.HTMLtoRTFaddon;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.Assert;
